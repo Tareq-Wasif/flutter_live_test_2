@@ -53,10 +53,7 @@ class MyApp extends StatelessWidget {
                 ),
               ),
               contentPadding: EdgeInsets.all(10),
-              // border: Border.symmetric(
-              //   sides: BorderSide(color: Colors.grey),
-              // ),
-              // tileColor: Colors.white,
+              tileColor: Colors.white,
             );
           },
         ),
